@@ -1,3 +1,5 @@
+from __future__ import print_function # for compatibility
+
 try:
     import gdb
 except ImportError:
